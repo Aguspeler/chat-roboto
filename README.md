@@ -1,7 +1,18 @@
 # chat-roboto
-langka langka install bot
-
-#termux
+install di termux
+pkg install git
 pkg install nodejs
-pkg install git clone
-git clone 
+git clone https://github.com/Aguspeler/chat-roboto
+npm install
+npm install express
+node index.js
+buka file index.html di file manager jalankan di chrome
+
+di windows
+install nodejs
+install git
+git clone https://github.com/Aguspeler/chat-roboto
+npm install
+npm install express
+node index.js
+jalankan index.html nya
