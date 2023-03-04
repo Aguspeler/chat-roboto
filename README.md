@@ -1,5 +1,5 @@
 # chat-roboto
-langka langka install bot
+langka langka install chat-roboto
 
       termux
       pkg install nodejs
