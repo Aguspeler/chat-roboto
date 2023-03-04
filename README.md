@@ -1,2 +1,7 @@
 # chat-roboto
-jangan lupa follow
+langka langka install bot
+
+#termux
+pkg install nodejs
+pkg install git clone
+git clone 
